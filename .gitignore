@@ -6,3 +6,9 @@ project.lock.json
 # node
 node_modules/
 npm-debug.log
+
+# Rider
+.idea/
+
+# VS
+.vs/
